@@ -51,4 +51,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any queries or contributions, please contact [Your Contact Information].
+For any queries or contributions, please contact myself at balva085@fiu.edu.
